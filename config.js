@@ -42,7 +42,7 @@ global.scan = "https://rb.gy/nl69nj";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "VGPR7FP3"
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || "€",
